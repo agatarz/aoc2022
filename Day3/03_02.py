@@ -1,5 +1,5 @@
 # https://adventofcode.com/2022/day/3
-# Day 6 - part 2
+# Day 3 - part 2
 
 def input_puzzle(source_file):
     """ Get input files as list of lines. """
