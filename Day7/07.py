@@ -116,8 +116,6 @@ def solution(input_puzzles):
 test_file = '07test.txt'
 input_file = '07.txt'
 
-solution(input_puzzle(test_file))
-
 # Compare with the test example
 assert solution(input_puzzle(test_file)) == 95437
 
